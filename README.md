@@ -60,10 +60,10 @@ The files available for the project are:
 After downloading the data and unzipping it to a working folder of your choice, use the Terminal or Command Prompt to navigate to your selected folder and execute the command ```jupyter notebook Identify_Customer_Segments.ipynb``` to open up a browser window or tab to work on the project notebook.
 
 ## Results<a name="results"></a>
-* [Project Notebook: Identify Customer Segments with Arvato]()
+* [Project Notebook: Identify Customer Segments with Arvato](https://nbviewer.jupyter.org/github/gauravansal/Identify-Customer-Segments-with-Arvato/blob/master/Identify_Customer_Segments.html)
 
 
-## Notes on this Unsupervised Learning<a name="unsupervised_learning"></a>
+## Notes on Unsupervised Learning<a name="unsupervised_learning"></a>
 
 The unsupervised learning branch of machine learning is key in the organization of large and complex datasets. While unsupervised learning lies in contrast to supervised learning in the fact that unsupervised learning lacks objective output classes or values, it can still be important in converting the data into a form that can be used in a supervised learning task. Dimensionality reduction techniques can help surface the main signals and associations in your data, providing supervised learning techniques a more focused set of features upon which to apply their work. Clustering techniques are useful for understanding how the data points themselves are organized. These clusters might themselves be a useful feature in a directed supervised learning task. This project will give you hands-on experience with a real-life task that makes use of these techniques, focusing on the unsupervised work that goes into understanding a dataset.
 
@@ -79,4 +79,4 @@ In addition, the dataset presented in this project requires a number of assessme
 <a name="acknowledgement"></a>
 ### Acknowledgements
 
-This project was completed as part of the [Udacity Data Scientist Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025). The data was originally sourced by Udacity from [Arvato Financial Solutions](https://medium.https://www.arvato.us/), a [Bertelsmann](https://www.bertelsmann.com/#st-1) subsidiary.
+This project was completed as part of the [Udacity Data Scientist Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025). The data was originally sourced by Udacity from [Arvato Financial Solutions](https://www.arvato.us/), a [Bertelsmann](https://www.bertelsmann.com/#st-1) subsidiary.
