@@ -33,7 +33,7 @@ Now that your data is clean, you will use dimensionality reduction techniques to
 * Once you’ve scaled your features, you can then apply principal component analysis (PCA) to find the vectors of maximal variability. How much variability in the data does each principal component capture? Can you interpret associations between original features in your dataset based on the weights given on the strongest components? How many components will you keep as part of the dimensionality reduction process?
 You will use the sklearn library to create objects that implement your feature scaling and PCA dimensionality reduction decisions.
 
-3. Clustering - 
+3. `Clustering` - 
 Finally, on your transformed data, you will apply clustering techniques to identify groups in the general demographic data. You will then apply the same clustering model to the customers dataset to see how market segments differ between the general population and the mail-order sales company. You will tackle the following points in this stage:
 
 * Use the k-means method to cluster the demographic data into groups. How should you make a decision on how many clusters to use?
